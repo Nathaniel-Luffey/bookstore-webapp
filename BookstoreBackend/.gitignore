@@ -1,0 +1,9 @@
+.env
+
+csv/
+
+csvdumps/
+
+node_modules/
+
+script.py
